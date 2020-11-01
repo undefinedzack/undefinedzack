@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Hi peeps I'm Adhney
+
+🔭 I’m currently working on Cloud based Web App
+🌱 I’m currently learning Django, React and a lot of Web Development Stuff
+📫 How to reach me: well @undefinedzack everywhere 
