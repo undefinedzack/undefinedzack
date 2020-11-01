@@ -17,6 +17,8 @@ Here are some ideas to get you started:
 
 ![background](https://github.com/undefinedzack/undefinedzack/blob/main/Flat_Abstract-WALLPAPERS-pcubQYcEbewRfnrjRpkc.jpg)
 
+### What I'm upto
+
 - 🔭 I’m currently working on Cloud based Web App
 - 🌱 I’m currently learning Django, React and a lot of Web Development Stuff
 - 📫 How to reach me: well @undefinedzack everywhere 
