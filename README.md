@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 
 
-### What I'm upto
+<h1> What I'm upto</h1>
 
  - <h3>🔭 I’m currently working on Cloud based Web App</h3>
  - <h3>🌱 I’m currently learning Django, React and a lot of Web Development Stuff</h3>
