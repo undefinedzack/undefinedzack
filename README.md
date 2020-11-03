@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 ### Hi peeps I'm Adhney
 
-<a href="https://undefinedzack.github.io/its.me/"><img align="right" width="250px" src="https://github.com/undefinedzack/undefinedzack/blob/main/LoL.png" /></a>
+<a href="https://undefinedzack.github.io/its.me/"><img align="right" width="250px" src="https://github.com/undefinedzack/undefinedzack/blob/main/purplely.png" /></a>
 
 
 
