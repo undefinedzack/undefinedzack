@@ -21,6 +21,6 @@ Here are some ideas to get you started:
 
 <h1> What I'm upto</h1>
 
- - <h5>🔭 I’m currently working on Cloud based Web App</h5>
- - <h5>🌱 I’m currently learning Django, React and a lot of Web Development Stuff</h5>
- - <h5>📫 How to reach me: well @undefinedzack everywhere </h5>
+ - <h4>🔭 I’m currently working on Cloud based Web App</h4>
+ - <h4>🌱 I’m currently learning Django, React and a lot of Web Development Stuff</h4>
+ - <h4>📫 How to reach me: well @undefinedzack everywhere </h4>
