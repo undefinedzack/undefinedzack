@@ -13,9 +13,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Hi peeps I'm Adhney
+<img src="https://github.com/undefinedzack/undefinedzack/blob/main/hi.png"/>
 
-<a href="https://undefinedzack.github.io/its.me/"><img align="right" width="250px" src="https://github.com/undefinedzack/undefinedzack/blob/main/purplely.png" /></a>
+<a href="https://undefinedzack.github.io/its.me/"><img align="right" width="250px" src="https://github.com/undefinedzack/undefinedzack/blob/main/its%20me.png" /></a>
 
 
 
