@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://github.com/undefinedzack/undefinedzack/blob/main/hmmm.png"/>
+<img src="https://github.com/undefinedzack/undefinedzack/blob/main/1.png"/>
 
 <a href="https://undefinedzack.github.io/its.me/"><img align="right" width="250px" src="https://github.com/undefinedzack/undefinedzack/blob/main/1.png" /></a>
 
