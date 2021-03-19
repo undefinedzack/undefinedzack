@@ -1,6 +1,6 @@
 <img style="border-radius: 10px;" src="https://github.com/undefinedzack/undefinedzack/blob/main/type3.png"/>
 
-<a href="https://undefinedzack.github.io/its.me/"><img align="right" width="200px" src="https://github.com/undefinedzack/undefinedzack/blob/main/its%20me.png" /></a>
+[comment]: <> (<a href="https://undefinedzack.github.io/its.me/"><img align="right" width="200px" src="https://github.com/undefinedzack/undefinedzack/blob/main/its%20me.png" /></a>)
 
 
 
@@ -16,7 +16,7 @@
 
 - 👨‍💻 All of my projects are available at [adhney.codes](adhney.codes)
 
-- 📝 I regularly write articles on [https://undefinedzack.hashnode.dev/](https://undefinedzack.hashnode.dev/)
+- 📝 I regularly write articles on [https://undefinedzack.hashnode.dev](https://undefinedzack.hashnode.dev/)
 
 - 💬 Ask me about **React, Django, AWS**
 
