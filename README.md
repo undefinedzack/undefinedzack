@@ -43,7 +43,7 @@
 <a href="https://codeforces.com/profile/undefinedzack" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="undefinedzack" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/undefinedzack" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="undefinedzack" height="30" width="40" /></a>
 <a href="https://www.hackerearth.com/@adhney.nawghare" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerearth.svg" alt="@adhney.nawghare" height="30" width="40" /></a>
-<a href="/https://undefinedzack.hashnode.dev/rss.xml" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/rss.svg" alt="https://undefinedzack.hashnode.dev/rss.xml" height="30" width="40" /></a>
+<a href="https://undefinedzack.hashnode.dev/rss.xml" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/rss.svg" alt="https://undefinedzack.hashnode.dev/rss.xml" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
