@@ -13,7 +13,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hi, I'm [Adhney][website]
 <img style="border-radius: 10px;" src="https://github.com/undefinedzack/undefinedzack/blob/main/type3.png"/>
 
 <a href="https://undefinedzack.github.io/its.me/"><img align="right" width="200px" src="https://github.com/undefinedzack/undefinedzack/blob/main/its%20me.png" /></a>
