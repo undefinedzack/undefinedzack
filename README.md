@@ -31,18 +31,18 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/https://dev.to/undefinedzack" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="https://dev.to/undefinedzack" height="30" width="40" /></a>
+<a href="https://dev.to/undefinedzack" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="undefinedzack" height="30" width="40" /></a>
 <a href="https://twitter.com/undefinedzack" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="undefinedzack" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://linkedin.com/in/adhney" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://linkedin.com/in/adhney" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/12955370/undefinedzacklinked" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="https://stackoverflow.com/users/12955370/undefinedzacklinked" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/adhney.nawghare" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="https://www.facebook.com/adhney.nawghare" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/undefinedzack/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="https://www.instagram.com/undefinedzack/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/adhney" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="adhney" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/undefinedzack" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="undefinedzack" height="30" width="40" /></a>
+<a href="https://fb.com/adhney.nawghare" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="adhney.nawghare" height="30" width="40" /></a>
+<a href="https://instagram.com/undefinedzack" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="undefinedzack" height="30" width="40" /></a>
 <a href="https://medium.com/@undefinedzack" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@undefinedzack" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/https://www.codechef.com/users/undefinedzack" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/undefinedzack" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/undefinedzack" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="https://www.hackerrank.com/undefinedzack" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/https://codeforces.com/profile/undefinedzack" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="https://codeforces.com/profile/undefinedzack" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/undefinedzack/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="https://leetcode.com/undefinedzack/" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/http://www.hackerearth.com/@adhney.nawghare" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerearth.svg" alt="http://www.hackerearth.com/@adhney.nawghare" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/undefinedzack" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="undefinedzack" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/undefinedzack" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="undefinedzack" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/undefinedzack" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="undefinedzack" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/undefinedzack" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="undefinedzack" height="30" width="40" /></a>
+<a href="https://www.hackerearth.com/@adhney.nawghare" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerearth.svg" alt="@adhney.nawghare" height="30" width="40" /></a>
 <a href="/https://undefinedzack.hashnode.dev/rss.xml" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/rss.svg" alt="https://undefinedzack.hashnode.dev/rss.xml" height="30" width="40" /></a>
 </p>
 
