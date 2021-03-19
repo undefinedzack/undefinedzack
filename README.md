@@ -24,6 +24,9 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [How to deploy a Django app to Heroku](https://undefinedzack.hashnode.dev/how-to-deploy-a-django-app-to-heroku)
+- [How to Create a To-Do app in Django with Bootstrap and Font-Awesome!](https://undefinedzack.hashnode.dev/how-to-create-a-to-do-app-in-django-with-bootstrap-and-font-awesome)
+- [How to Create a Django Project](https://undefinedzack.hashnode.dev/how-to-create-a-django-project)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
