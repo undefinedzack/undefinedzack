@@ -14,7 +14,7 @@
 
 - 🌱 I’m currently learning **React, Express, Django, AWS**
 
-- 👨‍💻 All of my projects are available at [adhney.codes](adhney.codes)
+- 👨‍💻 All of my projects are available at [adhney.tech](adhney.tech)
 
 - 📝 I regularly write articles on [https://undefinedzack.hashnode.dev](https://undefinedzack.hashnode.dev/)
 
